@@ -2,18 +2,16 @@
 # Hearing Impariment
 A partial or complete inability to hear
 
----
+---?image=assets/isolation.png
 
-## The Costs of Hearing Impairment
+## Costs
 
 *Social isolation*
-
-![Isolation](assets/isolation.png)
 
 <div class="comment">Image from the Noun Project, Created by Gan Khoon Lay</div>
 
 ---
 <!-- TODO: insert isolation image -->
 
-## The Costs of Hearing Impairment
+## Costs
 
