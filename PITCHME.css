@@ -4,9 +4,11 @@
 }
 
 .comment {
-    position: abolsute;
-    bottom: 0;
-    font-size: 25%;
+    position: fixed;
+    bottom: 20pt;
+    right: 20pt;
+    font-size: 10pt !important;
+    text-align: right;
 }
 
 .reveal .slides {
