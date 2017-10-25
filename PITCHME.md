@@ -39,7 +39,7 @@
 ## Three Parts
 
 1. Hearing Assessment
-2. Hearing Loss |
+2. Hearing Loss                     |
 3. Improving Hearing - Hearing Aids |
 
 ---
