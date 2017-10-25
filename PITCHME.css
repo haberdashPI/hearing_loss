@@ -6,5 +6,9 @@
 .comment {
     position: abolsute;
     bottom: 0;
-    font-size: 0.7em;
+    font-size: 25%;
+}
+
+.reveal .slides {
+    text-align: left;
 }
