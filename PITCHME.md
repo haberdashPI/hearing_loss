@@ -58,17 +58,25 @@
 
 <!-- TODO: show graph of a stair case. Play some sounds as a demo -->
 
+---
+
 ## Auditory-Brainstem Response
 
 <!-- show an image of the ABR equipment -->
+
+---
 
 ## Auditory-Brainstem Response
 
 <!-- show a graph of an ABR -->
 
+---
+
 ## Otoacoustic Emissions
 
 <!-- show an image of the equipment -->
+
+---
 
 ## Otoacoustic Emissions
 
@@ -82,8 +90,8 @@
 
 ## Hearing Loss
 
-1. Conductive Hearing Loss
-2. Sensory-neural Hearing Loss |
+- Conductive Hearing Loss
+- Sensory-neural Hearing Loss |
 
 ---
 
@@ -105,11 +113,15 @@
 
 <!-- TODO: show levels of sounds that will lead to a threshold shift -->
 
+---
+
 ## Temporary Hearing Loss
 
 **Excessive force damages hair cells
 
 <!-- TODO: show image of ear, then cochela, then hair cells damageds -->
+
+---
 
 ## Temporary Hearing Loss
 
@@ -117,11 +129,15 @@
 
 <!-- TODO: same image as above, but with synapses highlighted -->
 
+---
+
 ## Temporary to Perament Loss
 
 **Poorly understood**
 
 <!-- TODO: question marks -->
+
+---
 
 ## Hidden Hearing Loss
 
@@ -131,9 +147,13 @@
 
 <!-- TODO: show changes in synaptic ribbons -->
 
+---
+
 ## Cognitive Load
 
 <!-- TODO: show an image describing the hypothesis -->
+
+---
 
 ## Cognitive Load
 
