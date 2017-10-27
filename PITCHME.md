@@ -1,8 +1,11 @@
 @title[Introduction]
 # Hearing Loss
-## A partial or complete inability to hear
+**A partial or complete inability to hear**
+
 
 ---
+
+<!-- TODO Cite image sources -->
 
 ## Costs
 
@@ -94,7 +97,7 @@
 
 ## High-frequency Challenges
 
-### Standing Waves
+**Standing Waves**
 
 ![standing wave example](assets/standing_wave1.png)
 
@@ -102,7 +105,7 @@
 
 ## High-frequency Challenges
 
-### Standing Wave-effects
+**Standing Wave-effects**
 
 ![standing wave effects](assets/standing_wave2.png)
 
@@ -110,7 +113,7 @@
 
 ## Accounting for Standing Waves
 
-### Measure distance to ear drum
+**Measure distance to ear drum**
 
 ![in-ear microphone](assets/inear_audio_inout.png)
 
@@ -118,31 +121,41 @@
 
 ## Auditory-Brainstem Response
 
-<!-- show an image of the ABR equipment -->
+![ABR](assets/abr1.jpg)
 
 ---
 
 ## Auditory-Brainstem Response
 
-<!-- show a graph of an ABR -->
+![ABR](assets/ABR2.jpg)
 
----
-
-## Auditory-Brainstem response
-
-<!-- relate graph to different regions of the brainstem -->
-
----
-
-## Otoacoustic Emissions
-
-<!-- show an image of the equipment -->
+<!-- TODO: cite below -->
+<!-- http://www.openaccessjournals.com/peer-review/gender-specific-differences-in-auditory-brain-stem-response-in-young-patients-with-adhd.html
+-->
 
 ---
 
 ## Otoacoustic Emissions
 
-<!-- show a graph of the DPOAE -->
+![in-ear microphone](assets/inear_audio_inout.png)
+
+---
+
+## Otoacoustic Emissions
+
+**Distortion Product Otoacoustic Emission (DPOAE)**
+
+![dpoae](assets/DPOAE.png)
+
+---
+
+## Otoacoustic Emissions
+
+**Outer hair cells generate sound**
+
+![hair cells](hair_cells.png)
+
+<!-- TODO: zoom from ear diagram to membrane diagram -->
 
 ---
 
