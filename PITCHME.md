@@ -15,25 +15,7 @@
 <img src="assets/costs3.png" class="fragment"/>
 </div>
 
-<div class="comment">Images derrived from the Noun Project, by Gan Khoon Lay and Lamik</div>
-
-<!-- --- -->
-
-<!-- ## Costs -->
-
-<!-- **Loss of productivity** -->
-
-<!-- <\!-- TODO: details -\-> -->
-
-<!-- --- -->
-
-<!-- ## Costs -->
-
-<!-- **Increased Risk of Dementia** -->
-
-<!-- <\!-- TODO: details -\-> -->
-
----
+<div class="comment">Images derrived from Artwork by Gan Khoon Lay and Lamik from the Noun Project</div>
 
 <!-- ## Hearing loss is becoming more common -->
 
@@ -44,8 +26,8 @@
 ## Three Parts
 
 - Hearing Assessment
-- Hearing Loss                     |
-- Improving Hearing - Hearing Aids |
+- Hearing Loss           |
+- Improving Hearing      |
 
 ---
 
@@ -55,7 +37,16 @@
 
 ## Audiogram
 
-![audiogram](assets/audiogram.png)
+<div class="build">
+<img src="assets/audiogram1.png" class="fragment"/>
+<img src="assets/audiogram2.png" class="fragment"/>
+<img src="assets/audiogram3.png" class="fragment"/>
+<img src="assets/audiogram4.png" class="fragment"/>
+<img src="assets/audiogram5.png" class="fragment"/>
+<img src="assets/audiogram6.png" class="fragment"/>
+<img src="assets/audiogram7.png" class="fragment"/>
+<img src="assets/audiogram8.png" class="fragment"/>
+</div>
 
 ---
 
