@@ -60,6 +60,12 @@
 
 ---
 
+## Signal-detection Theory
+
+![signal detect](assets/signal_detect.png)
+
+---
+
 ## Audiometer
 
 ![adiometer](assets/audiometer.jpg)
