@@ -1,7 +1,11 @@
+.reveal h1, .reveal h2 {
+    vertical-align: top;
+}
+
 .reveal section img {
   border: 0;
   box-shadow: none;
-  max-height: 50vh;
+  max-height: 45vh;
   max-width: 80vw;
   min-width: 25vw;
   margin: auto;
@@ -18,4 +22,12 @@
 
 .reveal .slides {
     text-align: left;
+}
+
+.build {
+  position: relative;
+}
+
+div.build > img {
+  position: absolute;
 }
