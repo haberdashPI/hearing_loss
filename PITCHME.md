@@ -62,13 +62,13 @@
 
 ## Audiometer
 
-![adiometer](assets/audiometer.jpeg)
+![adiometer](assets/audiometer.jpg)
 
 ---
 
 ## Audiometer Calibration
 
-![coupler](assets/coupler.jpeg)
+![coupler](assets/coupler.jpg)
 
 ---
 
