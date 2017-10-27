@@ -1,6 +1,7 @@
 .reveal section img {
   border: 0;
   box-shadow: none;
+  max-height: 60vh;
 }
 
 .comment {
@@ -14,4 +15,3 @@
 .reveal .slides {
     text-align: left;
 }
-
