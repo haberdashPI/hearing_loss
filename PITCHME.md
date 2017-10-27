@@ -127,7 +127,7 @@
 
 ## Auditory-Brainstem Response
 
-![ABR](assets/ABR2.jpg)
+![ABR](assets/ABR2.png)
 
 <!-- TODO: cite below -->
 <!-- http://www.openaccessjournals.com/peer-review/gender-specific-differences-in-auditory-brain-stem-response-in-young-patients-with-adhd.html
