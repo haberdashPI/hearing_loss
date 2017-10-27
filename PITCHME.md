@@ -9,13 +9,13 @@
 
 ## Costs
 
-- Social isolation
-- Loss of productivity       |
-- Increased Risk of Dementia |
+<div class="build">
+<img src="assets/costs1.png" class="fragment"/>
+<img src="assets/costs2.png" class="fragment"/>
+<img src="assets/costs3.png" class="fragment"/>
+</div>
 
-<!-- ![Isolation](assets/isolation.png) -->
-
-<!-- <div class="comment">Image from the Noun Project, Created by Gan Khoon Lay</div> -->
+<div class="comment">Images derrived from the Noun Project, by Gan Khoon Lay and Lamik</div>
 
 <!-- --- -->
 
@@ -179,6 +179,8 @@
 
 **Similar accuracy, Increased effort**
 ![cognitive load](assets/cog_load.png)
+
+---
 
 # Part 2: Hearing Loss
 
