@@ -50,7 +50,7 @@
 
 ---
 
-## Adaptive Staircases
+## Adaptive Staircase
 
 <div class="build">
 <img src="assets/adapt1.png" class="fragment"/>
@@ -75,7 +75,13 @@
 
 ## Signal-detection Theory
 
-![signal detect](assets/signal_detect.png)
+<div class="build">
+<img src="assets/signal_detect1.png" class="fragment"/>
+<img src="assets/signal_detect2.png" class="fragment"/>
+<img src="assets/signal_detect3.png" class="fragment"/>
+<img src="assets/signal_detect4.png" class="fragment"/>
+<img src="assets/signal_detect5.png" class="fragment"/>
+</div>
 
 ---
 
@@ -94,6 +100,13 @@
 ## Loudness
 
 ![loudness](assets/loud_curve.png)
+
+---
+
+## Loudness
+
+Let's try it out:
+[Tone Generator](http://www.szynalski.com/tone-generator/)
 
 ---
 
