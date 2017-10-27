@@ -53,22 +53,22 @@
 ## Adaptive Staircases
 
 <div class="build">
-<img src="assets/adapt1.png" class="fragmenet"/>
-<img src="assets/adapt2.png" class="fragmenet"/>
-<img src="assets/adapt3.png" class="fragmenet"/>
-<img src="assets/adapt4.png" class="fragmenet"/>
-<img src="assets/adapt5.png" class="fragmenet"/>
-<img src="assets/adapt6.png" class="fragmenet"/>
-<img src="assets/adapt7.png" class="fragmenet"/>
-<img src="assets/adapt8.png" class="fragmenet"/>
-<img src="assets/adapt9.png" class="fragmenet"/>
-<img src="assets/adapt10.png" class="fragmenet"/>
-<img src="assets/adapt11.png" class="fragmenet"/>
-<img src="assets/adapt12.png" class="fragmenet"/>
-<img src="assets/adapt13.png" class="fragmenet"/>
-<img src="assets/adapt14.png" class="fragmenet"/>
-<img src="assets/adapt15.png" class="fragmenet"/>
-<img src="assets/adapt16.png" class="fragmenet"/>
+<img src="assets/adapt1.png" class="fragment"/>
+<img src="assets/adapt2.png" class="fragment"/>
+<img src="assets/adapt3.png" class="fragment"/>
+<img src="assets/adapt4.png" class="fragment"/>
+<img src="assets/adapt5.png" class="fragment"/>
+<img src="assets/adapt6.png" class="fragment"/>
+<img src="assets/adapt7.png" class="fragment"/>
+<img src="assets/adapt8.png" class="fragment"/>
+<img src="assets/adapt9.png" class="fragment"/>
+<img src="assets/adapt10.png" class="fragment"/>
+<img src="assets/adapt11.png" class="fragment"/>
+<img src="assets/adapt12.png" class="fragment"/>
+<img src="assets/adapt13.png" class="fragment"/>
+<img src="assets/adapt14.png" class="fragment"/>
+<img src="assets/adapt15.png" class="fragment"/>
+<img src="assets/adapt16.png" class="fragment"/>
 </div>
 
 ---
