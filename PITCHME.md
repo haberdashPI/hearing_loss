@@ -153,7 +153,7 @@
 
 **Outer hair cells generate sound**
 
-![hair cells](hair_cells.png)
+![hair cells](assets/hair_cells.png)
 
 <!-- TODO: zoom from ear diagram to membrane diagram -->
 
