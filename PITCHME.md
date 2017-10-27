@@ -161,10 +161,12 @@
 
 ## Hearing in Noise
 
-**The audiogram cannot predict ability to hear speech in noise!**
+**Audiogram poorly predicts speech-in-noise performance**
 
 ![audiogram vs. speech in noise](assets/pta_vs_HINT.png)
 <div class="comment">Mead and Niquette 2000</div>
+
+---
 
 ## Hearing in Noise
 
@@ -175,9 +177,11 @@
 
 ## Cognitive Load
 
-<!-- TODO: show an image describing the hypothesis -->
+**Similar accuracy, Increased effort**
+![accurate speech SNR](assets/cog_load1.jpg)
+![higher effort](assets/cog_load2.jpg)
 
----
+# Part 2: Hearing Loss
 
 ---
 
@@ -220,18 +224,6 @@
 <!-- TODO: show changed suprathreshold responses -->
 
 <!-- TODO: show changes in synaptic ribbons -->
-
----
-
-## Cognitive Load
-
-<!-- TODO: show an image describing the hypothesis -->
-
----
-
-## Cognitive Load
-
-<!-- TODO: describe pupilometry -->
 
 ---
 
