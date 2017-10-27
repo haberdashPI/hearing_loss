@@ -87,7 +87,13 @@
 
 ## Audiometer
 
-![adiometer](assets/audiometer.jpg)
+<div class="build">
+<img src="assets/audiometer1.png" class="fragment"/>
+<img src="assets/audiometer2.png" class="fragment"/>
+<img src="assets/audiometer3.png" class="fragment"/>
+<img src="assets/audiometer4.png" class="fragment"/>
+<img src="assets/audiometer5.png" class="fragment"/>
+</div>
 
 ---
 
