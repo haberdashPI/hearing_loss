@@ -50,15 +50,52 @@
 
 ## Audiogram
 
-<!-- TODO: show a picture of an audiogram, explain dimensions -->
+![audiogram](assets/audiogram.png)
 
 ---
 
 ## Adaptive Staircases
 
-<!-- TODO: show graph of a stair case. Play some sounds as a demo -->
+![adaptive track](assets/adaptive.png)
 
 ---
+
+## Audiometer
+
+![adiometer](assets/audiometer.jpeg)
+
+---
+
+## Audiometer Calibration
+
+![coupler](assets/coupler.jpeg)
+
+---
+
+## Loudness
+
+![loudness](assets/loud_curve.png)
+
+---
+
+## High-frequency Audiometery
+
+<!-- TODO: research project -->
+
+basic idea: hearing loss generally begins at the highest frequencies, so we miss
+a lot by not measuring the higher frequencies
+
+---
+
+## Problem: High-frequency calibration
+
+things that influence high-frequency sound levels at the eardrum
+
+shape of the ear canal
+insertion depth of headphone
+
+we can account for this by playing a tone and measure the time it takes to bounce off
+the ear, and then compensate for the shape for the ear canal 
 
 ## Auditory-Brainstem Response
 
@@ -69,6 +106,12 @@
 ## Auditory-Brainstem Response
 
 <!-- show a graph of an ABR -->
+
+---
+
+## Auditory-Brainstem response
+
+<!-- relate graph to different regions of the brainstem -->
 
 ---
 
@@ -87,23 +130,6 @@
 # Part 2: Hearing Loss
 
 ---
-
-## Hearing Loss
-
-- Conductive Hearing Loss
-- Sensory-neural Hearing Loss |
-
----
-
-## Conductive Hearing Loss
-
-<!-- TODO: show image of ear, and highlight ear canal and ear bones
-
----
-
-## Sensory-neural Hearing Loss
-
-<!-- TODO: show image of ear, and highlight cochlea -->
 
 ---
 
