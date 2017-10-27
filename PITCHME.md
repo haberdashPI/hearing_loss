@@ -6,31 +6,33 @@
 
 ## Costs
 
-**Social isolation**
+- Social isolation
+- Loss of productivity       |
+- Increased Risk of Dementia |
 
-![Isolation](assets/isolation.png)
+<!-- ![Isolation](assets/isolation.png) -->
 
-<div class="comment">Image from the Noun Project, Created by Gan Khoon Lay</div>
+<!-- <div class="comment">Image from the Noun Project, Created by Gan Khoon Lay</div> -->
+
+<!-- --- -->
+
+<!-- ## Costs -->
+
+<!-- **Loss of productivity** -->
+
+<!-- <\!-- TODO: details -\-> -->
+
+<!-- --- -->
+
+<!-- ## Costs -->
+
+<!-- **Increased Risk of Dementia** -->
+
+<!-- <\!-- TODO: details -\-> -->
 
 ---
 
-## Costs
-
-**Loss of productivity**
-
-<!-- TODO: details -->
-
----
-
-## Costs
-
-**Increased Risk of Dementia**
-
-<!-- TODO: details -->
-
----
-
-## Hearing Loss is becoming more common
+<!-- ## Hearing loss is becoming more common -->
 
 <!-- TODO: show a graph -->
 
@@ -86,22 +88,33 @@
 
 ## High-frequency Audiometery
 
-<!-- TODO: research project -->
-
-basic idea: hearing loss generally begins at the highest frequencies, so we miss
-a lot by not measuring the higher frequencies
+![high frequency graph](assets/high_freq.png)
 
 ---
 
-## Problem: High-frequency calibration
+## High-frequency Challenges
 
-things that influence high-frequency sound levels at the eardrum
+### Standing Waves
 
-shape of the ear canal
-insertion depth of headphone
+![standing wave example](asssets/standing_wave1.png)
 
-we can account for this by playing a tone and measure the time it takes to bounce off
-the ear, and then compensate for the shape for the ear canal 
+---
+
+## High-frequency Challenges
+
+### Standing Wave-effects
+
+![standing wave effects](asssets/standing_wave2.png)
+
+---
+
+## Accounting for Standing Waves
+
+### Measure distance to ear drum
+
+![in-ear microphone](inear_audio_inout.png)
+
+---
 
 ## Auditory-Brainstem Response
 
