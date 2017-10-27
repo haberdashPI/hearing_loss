@@ -96,7 +96,7 @@
 
 ### Standing Waves
 
-![standing wave example](asssets/standing_wave1.png)
+![standing wave example](assets/standing_wave1.png)
 
 ---
 
@@ -104,7 +104,7 @@
 
 ### Standing Wave-effects
 
-![standing wave effects](asssets/standing_wave2.png)
+![standing wave effects](assets/standing_wave2.png)
 
 ---
 
@@ -112,7 +112,7 @@
 
 ### Measure distance to ear drum
 
-![in-ear microphone](inear_audio_inout.png)
+![in-ear microphone](assets/inear_audio_inout.png)
 
 ---
 
