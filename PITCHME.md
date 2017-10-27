@@ -159,7 +159,23 @@
 
 ---
 
-# Part 2: Hearing Loss
+## Hearing in Noise
+
+**The audiogram cannot predict ability to hear speech in noise!**
+
+![audiogram vs. speech in noise](assets/pta_vs_HINT.png)
+<div class="comment">Mead and Niquette 2000</div>
+
+## Hearing in Noise
+
+**Adjust SNR of speech vs. speech-like noise**
+![speaker array](assets/speaker_lg.gif)
+
+---
+
+## Cognitive Load
+
+<!-- TODO: show an image describing the hypothesis -->
 
 ---
 
