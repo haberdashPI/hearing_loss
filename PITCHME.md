@@ -178,8 +178,7 @@
 ## Cognitive Load
 
 **Similar accuracy, Increased effort**
-![accurate speech SNR](assets/cog_load1.jpg)
-![higher effort](assets/cog_load2.jpg)
+![cognitive load](assets/cog_load.png)
 
 # Part 2: Hearing Loss
 
