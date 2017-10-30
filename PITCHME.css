@@ -15,7 +15,7 @@
 .comment {
     position: fixed;
     bottom: 20pt;
-    right: 20pt;
+    right: 0pt;
     font-size: 10pt !important;
     text-align: right;
 }

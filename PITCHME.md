@@ -105,6 +105,8 @@
 
 ## Loudness
 
+<!-- TODO: show audiogram again - talk about flat line -->
+
 ![loudness](assets/loud_curve.png)
 
 ---
@@ -118,7 +120,11 @@ Let's try it out:
 
 ## High-frequency Audiometery
 
+<!-- TODO: show audiogram again - point out limit at 8kHz -->
+
 ![high frequency graph](assets/high_freq.png)
+
+<div class="comment">Jungmee et al. 2011</div>
 
 ---
 
@@ -135,6 +141,8 @@ Let's try it out:
 **Standing Wave-effects**
 
 ![standing wave effects](assets/standing_wave2.png)
+
+<div class="comment">Siegel 1994</div>
 
 ---
 
@@ -155,10 +163,7 @@ Let's try it out:
 ## Auditory-Brainstem Response
 
 ![ABR](assets/ABR2.png)
-
-<!-- TODO: cite below -->
-<!-- http://www.openaccessjournals.com/peer-review/gender-specific-differences-in-auditory-brain-stem-response-in-young-patients-with-adhd.html
--->
+<div class="comment">Claesdotter-Hybbinette et al 2016</div>
 
 ---
 
@@ -180,15 +185,18 @@ Let's try it out:
 
 **Outer hair cells generate sound**
 
-![hair cells](assets/hair_cells.png)
-
-<!-- TODO: zoom from ear diagram to membrane diagram -->
+<div class="build">
+<img src="assets/ear1.png" class="fragment"/>
+<img src="assets/ear2.png" class="fragment"/>
+<img src="assets/hair_cells1.png" class="fragment"/>
+<img src="assets/hair_cells2.png" class="fragment"/>
+</div>
 
 ---
 
 ## Hearing in Noise
 
-**Audiogram poorly predicts speech-in-noise performance**
+**Audiogram poorly predicts speech-in-noise errors**
 
 ![audiogram vs. speech in noise](assets/pta_vs_HINT.png)
 <div class="comment">Mead and Niquette 2000</div>
@@ -207,6 +215,8 @@ Let's try it out:
 **Similar accuracy, Increased effort**
 ![cognitive load](assets/cog_load.png)
 
+<div class="comment">Mackersie et al 2015</div>
+
 ---
 
 # Part 2: Hearing Loss
@@ -217,41 +227,55 @@ Let's try it out:
 
 **Everyday listening leads to short-term hearing loss**
 
-<!-- TODO: show levels of sounds that will lead to a threshold shift -->
+![recomended exposure levels](assets/REL.png)
 
 ---
 
 ## Temporary Hearing Loss
 
-**Excessive force damages hair cells
+**Excessive force damages hair cells**
 
-<!-- TODO: show image of ear, then cochela, then hair cells damageds -->
+<div class="build">
+<img src="assets/ear1.png" class="fragment"/>
+<img src="assets/ear2.png" class="fragment"/>
+<img src="assets/hair_cells1.png" class="fragment"/>
+<img src="assets/hair_cells3.png" class="fragment"/>
+<img src="assets/F6.large.jpg" class="fragment"/>
+</div>
+
+<div class="comment">Zhao et al 1996</div>
 
 ---
 
 ## Temporary Hearing Loss
 
-**Damaged hairs cells lead to damaged synapses**
+**Temporary hair-cell damage peramanently damages synapses**
 
-<!-- TODO: same image as above, but with synapses highlighted -->
-
----
-
-## Temporary to Perament Loss
-
-**Poorly understood**
-
-<!-- TODO: question marks -->
+![threshold response](assets/kujawa_F2.jpg)
 
 ---
 
-## Hidden Hearing Loss
+## Temporary Hearing Loss
 
-<!-- TODO: show kujawa audiograms -->
+**Temporary hair-cell damage peramanently damages synapses**
 
-<!-- TODO: show changed suprathreshold responses -->
+![threshold response](assets/kujawa_F3.jpg)
 
-<!-- TODO: show changes in synaptic ribbons -->
+---
+
+## Temporary Hearing Loss
+
+**Temporary hair-cell damage peramanently damages synapses**
+
+![threshold response](assets/kujawa_F7.jpg)
+
+---
+
+[Hearing Loss Demo](https://www.hear-it.org/Impressions-of-hearing-loss-and-Tinnitus-)
+
+---
+
+[Tinnitus Demo](https://www.soundrelief.com/tinnitus/sounds-tinnitus/)
 
 ---
 
