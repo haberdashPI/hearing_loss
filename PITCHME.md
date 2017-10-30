@@ -247,7 +247,7 @@ Let's try it out:
 
 ---
 
-## Temporary Hearing Loss
+## "Temporary" Hearing Loss
 
 **Temporary hair-cell damage peramanently damages synapses**
 
@@ -255,19 +255,19 @@ Let's try it out:
 
 ---
 
-## Temporary Hearing Loss
+## "Temporary" Hearing Loss
 
 **Temporary hair-cell damage peramanently damages synapses**
 
-![threshold response](assets/kujawa_F3.jpg)
+![supra threshold response](assets/kujawa_F3.jpg)
 
 ---
 
-## Temporary Hearing Loss
+## "Temporary" Hearing Loss
 
 **Temporary hair-cell damage peramanently damages synapses**
 
-![threshold response](assets/kujawa_F7.jpg)
+![synapse ribbons](assets/kujawa_F7.gif)
 
 ---
 
@@ -275,10 +275,23 @@ Let's try it out:
 
 ---
 
+## Basilar Membrane Simulation
+
+** Hearing loss occurs at highest frequencies first
+![BM simulation](https://www.youtube.com/watch?v=fLRu-Hi5k9I)
+
+
+---
+
 [Tinnitus Demo](https://www.soundrelief.com/tinnitus/sounds-tinnitus/)
+
+<!-- TODO: show proposed mechanism for tinnitus??? -->
 
 ---
 
 # Part 3: Improving Hearing
+
+---
+
 
 
