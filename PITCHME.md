@@ -225,7 +225,7 @@ Let's try it out:
 
 ## Temporary Hearing Loss
 
-**Everyday listening leads to short-term hearing loss**
+**Recommended levels of noise exposure**
 
 ![recomended exposure levels](assets/REL.png)
 
@@ -277,9 +277,9 @@ Let's try it out:
 
 ## Basilar Membrane Simulation
 
-** Hearing loss occurs at highest frequencies first
-![BM simulation](https://www.youtube.com/watch?v=fLRu-Hi5k9I)
+**Hearing loss occurs at highest frequencies first**
 
+![Video](https://www.youtube.com/watch?v=fLRu-Hi5k9I)
 
 ---
 
