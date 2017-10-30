@@ -279,7 +279,7 @@ Let's try it out:
 
 **Hearing loss occurs at highest frequencies first**
 
-![Video](https://www.youtube.com/watch?v=fLRu-Hi5k9I)
+![Video](https://www.youtube.com/embed/fLRu-Hi5k9I)
 
 ---
 
