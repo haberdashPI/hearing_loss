@@ -322,11 +322,11 @@ TODO: review slide with images
 
 ## Hearing Aid Amplification
 
-**In hearing loss, loud sounds still "feel" loud.
+**In hearing loss, loud sounds still "feel" loud.**
 
 ![recruitment](assets/recruitment.png)
 
-<div class="comment>Source: http://www.sens.com/helps/helps_d03.htm</div>
+<div class="comment">Source: http://www.sens.com/helps/helps_d03.htm</div>
 
 ---
 
@@ -376,7 +376,7 @@ TODO: review slide with images
 **Directional tuning based on eye gaze**
 ![eye gaze hearing aid](assets/eye_gaze.png)
 
-<div class="comment>Kidd 2017</div>
+<div class="comment">Kidd 2017</div>
 
 ---
 
