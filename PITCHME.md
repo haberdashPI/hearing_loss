@@ -219,9 +219,26 @@ Let's try it out:
 
 ---
 
+TODO: review slide with images
+
+---
+
 # Part 2: Hearing Loss
 
 ---
+
+## Types of Hearing Loss
+
+**Conductive Hearing Loss**
+
+![conductive image](assets/conductive.png)
+
+## Types of Hearing Loss
+
+**Sensory-neural Hearing Loss**
+
+![sensory image](assets/sensory.png)
+
 
 ## Temporary Hearing Loss
 
@@ -289,9 +306,112 @@ Let's try it out:
 
 ---
 
+TODO: review slide with images
+
+---
+
 # Part 3: Improving Hearing
 
 ---
 
+## Hearing Aids
+
+![hearing aid](assets/hearing_aid.jpg)
+
+---
+
+## Hearing Aid Amplification
+
+**In hearing loss, loud sounds still "feel" loud.
+
+![recruitment](assets/recruitment.png)
+
+<div class="comment>Source: http://www.sens.com/helps/helps_d03.htm</div>
+
+---
+
+## Compression
+
+![compression](assets/compression.png)
+
+<div class="comment">Source: https://commons.wikimedia.org/wiki/File:Upward_compression.svg</div>
+
+---
+
+## Compression Delay
+
+<ul>
+<li class="fragment">Fast Compression<span class="fragment"> - Masks speech envelope</span></li>
+<li class="fragment">Slow Compression<span class="fragment"> - Fast, loud sounds can be painful</span></li>
+
+---
+
+## Hearing aid evaluation
+
+**Poorer cognition limits the benefits of compression**
+![compression intelligebility](assets/compression_rst.jpg)
+
+<div class="comment">Arehart 2013</div>
+
+---
+
+## Hearing aids and Speech-in-noise
+
+**Hearing aids fail in noisy environments**
+
+![Video](https://www.youtube.com/embed/1l37lzLIgQU)
+
+---
+
+## Ear Machine
+
+**An user adjustable hearing aid**
+![ear machine image](assets/ear_machine.png)
+<div class="comment">Source: http://www.earmachine.com/</div>
+
+---
+
+## Using eye-gaze
+
+**Directional tuning based on eye gaze**
+![eye gaze hearing aid](assets/eye_gaze.png)
+
+<div class="comment>Kidd 2017</div>
+
+---
+
+## Cochlear Implants
+
+![cochlear implant](assets/cochlear_implant.jpg)
+
+<div class="comment">Source https://commons.wikimedia.org/wiki/File:Infant_with_cochlear_implant.jpg</div>
+
+---
+
+## Cochlear Implants
+
+---
+
+cochlear implants (3-5 minutes):
+
+temporal resolution vs. spectral resolution
+demo of cochlear implant
+
+## Auditory Rehabilitation
+
+---
+
+rehabilitation (10-12 mintues)
+
+justify: adaptation to hearing aids, cochlear implants
+late application of these devices - degredation in the signal over time
+introduce perceptual learning
+motivating example - training in vision restores sight acuity
+
+show results from my 3rd experiment (1-2 minutes)
+
+---
+
+hair cell regeneration (read 2009 article, and createa  1-2 slide summary)
 
 
