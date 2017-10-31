@@ -398,21 +398,33 @@ TODO: review slide with images
 
 ## Temporal vs. Spectral Resolution
 
-temporal resolution vs. spectral resolution
-demo of cochlear implant
+**Cochlear implants have poor spectral resolution**
 
-## Auditory Rehabilitation
+![Video](assets/https://www.youtube.com/embed/SpKKYBkJ9Hw)
 
 ---
 
-rehabilitation (10-12 mintues)
+# Auditory Rehabilitation
 
-justify: adaptation to hearing aids, cochlear implants
-late application of these devices - degredation in the signal over time
-introduce perceptual learning
-motivating example - training in vision restores sight acuity
+---
 
-show results from my 3rd experiment (1-2 minutes)
+<div class="build">
+<img src="assets/f30f/Slide002.png" class="fragment"/>
+<img src="assets/f30f/Slide003.png" class="fragment"/>
+<img src="assets/f30f/Slide004.png" class="fragment"/>
+</div>
+
+---
+
+<div class="build">
+<img src="assets/f30f/Slide005.png" class="fragment"/>
+<img src="assets/f30f/Slide006.png" class="fragment"/>
+<img src="assets/f30f/Slide007.png" class="fragment"/>
+<img src="assets/f30f/Slide008.png" class="fragment"/>
+<img src="assets/f30f/Slide009.png" class="fragment"/>
+<img src="assets/f30f/Slide010.png" class="fragment"/>
+<img src="assets/f30f/Slide011.png" class="fragment"/>
+</div>
 
 ---
 
