@@ -320,7 +320,7 @@ TODO: review slide with images
 
 ---
 
-## Hearing Aid Amplification
+## Loudness Recruitment
 
 **In hearing loss, loud sounds still "feel" loud.**
 
@@ -351,11 +351,11 @@ TODO: review slide with images
 **Poorer cognition limits the benefits of compression**
 ![compression intelligebility](assets/compression_rst.jpg)
 
-<div class="comment">Arehart 2013</div>
+<div class="comment">Arehart et al 2013</div>
 
 ---
 
-## Hearing aids and Speech-in-noise
+## Speech-in-noise
 
 **Hearing aids fail in noisy environments**
 
@@ -365,7 +365,7 @@ TODO: review slide with images
 
 ## Ear Machine
 
-**An user adjustable hearing aid**
+**User adjustable hearing aid**
 ![ear machine image](assets/ear_machine.png)
 <div class="comment">Source: http://www.earmachine.com/</div>
 
@@ -390,9 +390,13 @@ TODO: review slide with images
 
 ## Cochlear Implants
 
+![cochlear implant](assets/cochlear_implant.jpg)
+
+<div class="comment">Source https://commons.wikimedia.org/wiki/File:Cochleaimplantat.jpg</div>
+
 ---
 
-cochlear implants (3-5 minutes):
+## Temporal vs. Spectral Resolution
 
 temporal resolution vs. spectral resolution
 demo of cochlear implant
