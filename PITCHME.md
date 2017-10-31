@@ -409,21 +409,21 @@ TODO: review slide with images
 ---
 
 <div class="build">
-<img src="assets/f30f/Slide002.png" class="fragment"/>
-<img src="assets/f30f/Slide003.png" class="fragment"/>
-<img src="assets/f30f/Slide004.png" class="fragment"/>
+<img src="assets/f30f/Slide002.png" class="fragment export_slide"/>
+<img src="assets/f30f/Slide003.png" class="fragment export_slide"/>
+<img src="assets/f30f/Slide004.png" class="fragment export_slide"/>
 </div>
 
 ---
 
 <div class="build">
-<img src="assets/f30f/Slide005.png" class="fragment"/>
-<img src="assets/f30f/Slide006.png" class="fragment"/>
-<img src="assets/f30f/Slide007.png" class="fragment"/>
-<img src="assets/f30f/Slide008.png" class="fragment"/>
-<img src="assets/f30f/Slide009.png" class="fragment"/>
-<img src="assets/f30f/Slide010.png" class="fragment"/>
-<img src="assets/f30f/Slide011.png" class="fragment"/>
+<img src="assets/f30f/Slide005.png" class="fragment export_slide"/>
+<img src="assets/f30f/Slide006.png" class="fragment export_slide"/>
+<img src="assets/f30f/Slide007.png" class="fragment export_slide"/>
+<img src="assets/f30f/Slide008.png" class="fragment export_slide"/>
+<img src="assets/f30f/Slide009.png" class="fragment export_slide"/>
+<img src="assets/f30f/Slide010.png" class="fragment export_slide"/>
+<img src="assets/f30f/Slide011.png" class="fragment export_slide"/>
 </div>
 
 ---
