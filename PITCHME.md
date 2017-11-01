@@ -289,7 +289,15 @@ Let's try it out:
 
 **Recommended levels of noise exposure**
 
-![recomended exposure levels](assets/REL.png)
+<div class="build">
+<img src="assets/rel0.png" class="fragment"/>
+<img src="assets/rel1.png" class="fragment"/>
+<img src="assets/rel2.png" class="fragment"/>
+<img src="assets/rel3.png" class="fragment"/>
+<img src="assets/rel4.png" class="fragment"/>
+<img src="assets/rel5.png" class="fragment"/>
+<img src="assets/rel6.png" class="fragment"/>
+</div>
 
 ---
 
