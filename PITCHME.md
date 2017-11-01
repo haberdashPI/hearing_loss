@@ -233,6 +233,8 @@ TODO: review slide with images
 
 ![conductive image](assets/conductive.png)
 
+---
+
 ## Types of Hearing Loss
 
 **Sensory-neural Hearing Loss**
@@ -257,7 +259,8 @@ TODO: review slide with images
 <img src="assets/ear2.png" class="fragment"/>
 <img src="assets/hair_cells1.png" class="fragment"/>
 <img src="assets/hair_cells3.png" class="fragment"/>
-<img src="assets/F6.large.jpg" class="fragment"/>
+<img src="assets/tiplink1.png" class="fragment"/>
+<img src="assets/tiplink2.png" class="fragment"/>
 </div>
 
 <div class="comment">Zhao et al 1996</div>
