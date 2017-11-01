@@ -468,7 +468,7 @@ Let's try it out:
 
 **Cochlear implants have poor spectral resolution**
 
-![Video](assets/https://www.youtube.com/embed/SpKKYBkJ9Hw)
+![Video](https://www.youtube.com/embed/SpKKYBkJ9Hw)
 
 ---
 
