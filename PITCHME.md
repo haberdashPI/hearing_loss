@@ -17,10 +17,6 @@
 
 <div class="comment">Images derrived from Artwork by Gan Khoon Lay and Lamik from the Noun Project</div>
 
-<!-- ## Hearing loss is becoming more common -->
-
-<!-- TODO: show a graph -->
-
 ---
 
 ## Three Parts
@@ -194,6 +190,18 @@ Let's try it out:
 
 ---
 
+## Summary - Pure-tone Thresholds
+
+**We can measure pure-tone thresholds with** 
+
+<div class="build">
+<img src="assets/puretone_summary1.png" class="fragment"/>
+<img src="assets/puretone_summary2.png" class="fragment"/>
+<img src="assets/puretone_summary3.png" class="fragment"/>
+</div>
+
+---
+
 ## Hearing in Noise
 
 **Audiogram poorly predicts speech-in-noise errors**
@@ -217,9 +225,13 @@ Let's try it out:
 
 <div class="comment">Mackersie et al 2015</div>
 
----
+## Summary - Part 1
 
-TODO: review slide with images
+<div class="build">
+<img src="assets/part1_summary1.png" class="fragment"/>
+<img src="assets/part1_summary2.png" class="fragment"/>
+<img src="assets/part1_summary3.png" class="fragment"/>
+</div>
 
 ---
 
@@ -295,9 +307,16 @@ TODO: review slide with images
 
 ---
 
+## High-frequency hearing loss
+**Hearing loss often starts in high frequencies**
+
+![high frequency hearing loss audiogram](assets/highfreq.jpg)
+
+---
+
 ## Basilar Membrane Simulation
 
-**Hearing loss occurs at highest frequencies first**
+**Hearing loss often starts in high frequencies**
 
 ![Video](https://www.youtube.com/embed/fLRu-Hi5k9I)
 
@@ -309,7 +328,14 @@ TODO: review slide with images
 
 ---
 
-TODO: review slide with images
+## Summary - Part 2
+
+<div class="build">
+<img src="assets/part2_summary1.png" class="fragment"/>
+<img src="assets/part2_summary2.png" class="fragment"/>
+<img src="assets/part2_summary3.png" class="fragment"/>
+<img src="assets/part2_summary4.png" class="fragment"/>
+</div>
 
 ---
 
@@ -407,30 +433,26 @@ TODO: review slide with images
 
 ---
 
+## Temporal vs. Spectral Resolution
+
+**Cochlear implants have poor spectral resolution**
+[CI Demo #2](http://www.utdallas.edu/~assmann/projects_CI.html)
+
+---
+
 # Auditory Rehabilitation
 
+<!-- TODO: give an overview of perceptual learning -->
+see next slide show...
+
 ---
+
+# Summary - Part 3
 
 <div class="build">
-<img src="assets/f30f/Slide002.png" class="fragment export_slide"/>
-<img src="assets/f30f/Slide003.png" class="fragment export_slide"/>
-<img src="assets/f30f/Slide004.png" class="fragment export_slide"/>
+<img src="assets/part3_summary1.png" class="fragment"/>
+<img src="assets/part3_summary2.png" class="fragment"/>
+<img src="assets/part3_summary3.png" class="fragment"/>
 </div>
 
----
-
-<div class="build">
-<img src="assets/f30f/Slide005.png" class="fragment export_slide"/>
-<img src="assets/f30f/Slide006.png" class="fragment export_slide"/>
-<img src="assets/f30f/Slide007.png" class="fragment export_slide"/>
-<img src="assets/f30f/Slide008.png" class="fragment export_slide"/>
-<img src="assets/f30f/Slide009.png" class="fragment export_slide"/>
-<img src="assets/f30f/Slide010.png" class="fragment export_slide"/>
-<img src="assets/f30f/Slide011.png" class="fragment export_slide"/>
-</div>
-
----
-
-hair cell regeneration (read 2009 article, and createa  1-2 slide summary)
-
-
+<div class="comment">Images derrived from Artwork by Michael Thompson and Alena Artemova from the Noun Project</div>
