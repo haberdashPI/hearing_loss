@@ -95,7 +95,12 @@
 
 ## Audiometer Calibration
 
-![coupler](assets/coupler.jpg)
+<div class="build">
+<img src="assets/calibration0.png" class="fragment"/>
+<img src="assets/calibration1.png" class="fragment"/>
+<img src="assets/calibration2.png" class="fragment"/>
+<img src="assets/calibration3.png" class="fragment"/>
+</div>
 
 ---
 
@@ -152,14 +157,31 @@ Let's try it out:
 
 ## Auditory-Brainstem Response
 
-![ABR](assets/abr1.jpg)
+![ABR](assets/abr_photo.jpg)
 
 ---
 
 ## Auditory-Brainstem Response
 
-![ABR](assets/ABR2.png)
-<div class="comment">Claesdotter-Hybbinette et al 2016</div>
+<div class="build">
+<img src="assets/abr0.png" class="fragment"/>
+<img src="assets/abr1.png" class="fragment"/>
+<img src="assets/abr2.png" class="fragment"/>
+<img src="assets/abr3.png" class="fragment"/>
+<img src="assets/abr4.png" class="fragment"/>
+<img src="assets/abr5.png" class="fragment"/>
+<img src="assets/abr6.png" class="fragment"/>
+<img src="assets/abr7.png" class="fragment"/>
+<img src="assets/abr8.png" class="fragment"/>
+<img src="assets/abr9.png" class="fragment"/>
+<img src="assets/abr10.png" class="fragment"/>
+<img src="assets/abr11.png" class="fragment"/>
+<img src="assets/abr12.png" class="fragment"/>
+<img src="assets/abr13.png" class="fragment"/>
+<img src="assets/abr14.png" class="fragment"/>
+</div>
+
+<div class="comment">Image source: http://www.hearingfoundation.in/Images/BERA1.jpg</div>
 
 ---
 
@@ -190,7 +212,7 @@ Let's try it out:
 
 ---
 
-## Summary - Pure-tone Thresholds
+## Summary
 
 **We can measure pure-tone thresholds with** 
 
@@ -204,17 +226,23 @@ Let's try it out:
 
 ## Hearing in Noise
 
-**Audiogram poorly predicts speech-in-noise errors**
+**Adjust SNR of speech vs. speech-like noise**
 
-![audiogram vs. speech in noise](assets/pta_vs_HINT.png)
-<div class="comment">Mead and Niquette 2000</div>
+<div class="build">
+<img src="assets/hint0.png" class="fragment"/>
+<img src="assets/hint1.png" class="fragment"/>
+<img src="assets/hint2.png" class="fragment"/>
+<img src="assets/hint3.png" class="fragment"/>
+</div>
 
 ---
 
 ## Hearing in Noise
 
-**Adjust SNR of speech vs. speech-like noise**
-![speaker array](assets/speaker_lg.gif)
+**Audiogram poorly predicts speech-in-noise errors**
+
+![audiogram vs. speech in noise](assets/pta_vs_HINT.png)
+<div class="comment">Mead and Niquette 2000</div>
 
 ---
 
@@ -224,6 +252,8 @@ Let's try it out:
 ![cognitive load](assets/cog_load.png)
 
 <div class="comment">Mackersie et al 2015</div>
+
+---
 
 ## Summary - Part 1
 
@@ -253,6 +283,7 @@ Let's try it out:
 
 ![sensory image](assets/sensory.png)
 
+---
 
 ## Temporary Hearing Loss
 
@@ -419,13 +450,13 @@ Let's try it out:
 
 ## Cochlear Implants
 
-![cochlear implant](assets/cochlear_implant.jpg)
+![cochlear implant](assets/cochlear_implant2.jpg)
 
 <div class="comment">Source https://commons.wikimedia.org/wiki/File:Cochleaimplantat.jpg</div>
 
 ---
 
-## Temporal vs. Spectral Resolution
+## Cochlear Implant Fidelity
 
 **Cochlear implants have poor spectral resolution**
 
@@ -433,7 +464,7 @@ Let's try it out:
 
 ---
 
-## Temporal vs. Spectral Resolution
+## Cochlear Implant Fidelity
 
 **Cochlear implants have poor spectral resolution**
 [CI Demo #2](http://www.utdallas.edu/~assmann/projects_CI.html)
