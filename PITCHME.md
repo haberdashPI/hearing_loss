@@ -1,21 +1,209 @@
-@title[Introduction]
-# Hearing Loss
-**A partial or complete inability to hear**
+---
+title: Hearing Prosthetics
+theme: 'simple'
+revealOptions:
+    transition: 'none'
+---
 
+# Hearing Prosthetics
 
 ---
 
-<!-- TODO Cite image sources -->
+## Outline
+
+Day 1
+- Intro to Hearing Loss
+- Hearing Prosthetics |
+- Small Group Discussions: Brainstorm Solutions |
+- Known challenges |
+
+---
+
+## Outline
+
+Day 2
+- Known challenges
+- Some possible future solutions |
+- Small Group Discussions: Brainstorm Solutions |
+- More future solutions |
+
+---
+
+[With Normal Hearing](https://www.hear-it.org/sites/default/files/sound_files/Normal.mp3)
+
+[With Hearing Loss](https://www.hear-it.org/sites/default/files/sound_files/Perceptivmiddel.mp3)
+
+---
+
+# Intro to Hearing Loss
+
+---
 
 ## Costs
 
-<div class="build">
-<img src="assets/costs1.png" class="fragment"/>
-<img src="assets/costs2.png" class="fragment"/>
-<img src="assets/costs3.png" class="fragment"/>
-</div>
+<images src="assets/costs%n.png" count=3/>
 
-<div class="comment">Images derrived from Artwork by Gan Khoon Lay and Lamik from the Noun Project</div>
+<div class="comment">Images derrived from Artwork by Gan Khoon Lay and Lamik 
+from the Noun Project</div>
+
+---
+
+## Costs
+
+**Hearing loss impacts a lot of people**
+
+- 1 in 10 people have hearing loss
+- >65 years: 1 in 3
+
+---
+
+## Audiogram
+
+<images src="assets/audiogram%n.png" count=8/>
+
+Note: Why would we want to use pure tones at different frequencies
+to test people's hearing? (Hint: Fourier transform)
+
+----
+
+## Adaptive Staircase
+
+<images src="assets/adapt%n.png" count=16/>
+
+---
+
+## Signal-detection Theory
+
+<images src="assets/signal_detect%n.png" count=5/>
+
+---
+
+## Audiometer
+
+<images src="assets/audiometer%n.png" count=5/>
+
+---
+
+# Types of Hearing Loss
+
+---
+
+
+## Conductive Hearing Loss
+
+![conductive image](assets/conductive.png)
+
+---
+
+## Sensory-neural Hearing Loss
+
+![sensory image](assets/sensory.png)
+
+---
+
+## Hearing Loss Causes
+
+**Recommended levels of noise exposure**
+
+<images src="assets/rel%n.png" count=6/>
+
+---
+
+## Hearing Loss Causes
+
+**Links between hair cells can break**
+
+<images src="assets/ear%n.png" count=2/>
+
+---
+
+## Hearing Loss Causes
+
+**Links between hair cells can break**
+
+<images src="assets/hair_cells%n.png" count=3/>
+
+---
+
+## Hearing Loss Causes
+
+**Links between hair cells can break**
+
+<images src="assets/tiplink%n.png" count=2/>
+
+<div class="comment">Zhao et al 1996</div>
+
+---
+
+## "Temporary" Hearing Loss
+
+**A temporary shift in threshold leads to...**
+
+![threshold response](assets/kujawa_F2.jpg)
+
+<div class="comment">Kujawa et al 2009</div>
+
+---
+
+## "Temporary" Hearing Loss
+
+**...a permanent shift in super-threshold responses and...**
+
+![supra threshold response](assets/kujawa_F3.jpg)
+
+<div class="comment">Kujawa et al 2009</div>
+
+---
+
+## "Temporary" Hearing Loss
+
+**...a permanent loss of neural tissue**
+![delayed loss of tissue](assets/kujawa4.jpg)
+
+<div class="comment">Kujawa et al 2009</div>
+
+Notes: TODO: add labels to graphs
+
+---
+
+# Hearing Prosthetics
+
+---
+
+## Hearing Aids
+
+![hearing aid](assets/hearing_aid.jpg)
+
+---
+
+## Hearing Aids
+
+![hearing aid schematic](assets/Fig_1_DigitalHA_opt.jpeg)
+<div class="comment">Baekgaard et al 2013</div>
+
+Notes: TODO: show build of image
+
+---
+
+## Hearing Aids - Compression
+
+![compression](assets/compression.png)
+<div class="comment">Source: https://commons.wikimedia.org/wiki/File:Upward_compression.svg</div>
+- Compression is applied separately to multiple frequency bands (~12)
+
+Notes: Why would we have separate channels of compression
+
+---
+
+## Hearing Aids - Effects of Noise
+
+**Hearing aids fail in noisy environments**
+
+[Video](https://www.youtube.com/embed/1l37lzLIgQU)
+
+---
+
+## OLD SLIDES
 
 ---
 
@@ -28,85 +216,17 @@
 ---
 
 # Part 1: Hearing Assessment
-
----
-
-## Audiogram
-
-<div class="build">
-<img src="assets/audiogram1.png" class="fragment"/>
-<img src="assets/audiogram2.png" class="fragment"/>
-<img src="assets/audiogram3.png" class="fragment"/>
-<img src="assets/audiogram4.png" class="fragment"/>
-<img src="assets/audiogram5.png" class="fragment"/>
-<img src="assets/audiogram6.png" class="fragment"/>
-<img src="assets/audiogram7.png" class="fragment"/>
-<img src="assets/audiogram8.png" class="fragment"/>
-</div>
-
----
-
-## Adaptive Staircase
-
-<div class="build">
-<img src="assets/adapt1.png" class="fragment"/>
-<img src="assets/adapt2.png" class="fragment"/>
-<img src="assets/adapt3.png" class="fragment"/>
-<img src="assets/adapt4.png" class="fragment"/>
-<img src="assets/adapt5.png" class="fragment"/>
-<img src="assets/adapt6.png" class="fragment"/>
-<img src="assets/adapt7.png" class="fragment"/>
-<img src="assets/adapt8.png" class="fragment"/>
-<img src="assets/adapt9.png" class="fragment"/>
-<img src="assets/adapt10.png" class="fragment"/>
-<img src="assets/adapt11.png" class="fragment"/>
-<img src="assets/adapt12.png" class="fragment"/>
-<img src="assets/adapt13.png" class="fragment"/>
-<img src="assets/adapt14.png" class="fragment"/>
-<img src="assets/adapt15.png" class="fragment"/>
-<img src="assets/adapt16.png" class="fragment"/>
-</div>
-
----
-
-## Signal-detection Theory
-
-<div class="build">
-<img src="assets/signal_detect1.png" class="fragment"/>
-<img src="assets/signal_detect2.png" class="fragment"/>
-<img src="assets/signal_detect3.png" class="fragment"/>
-<img src="assets/signal_detect4.png" class="fragment"/>
-<img src="assets/signal_detect5.png" class="fragment"/>
-</div>
-
----
-
-## Audiometer
-
-<div class="build">
-<img src="assets/audiometer1.png" class="fragment"/>
-<img src="assets/audiometer2.png" class="fragment"/>
-<img src="assets/audiometer3.png" class="fragment"/>
-<img src="assets/audiometer4.png" class="fragment"/>
-<img src="assets/audiometer5.png" class="fragment"/>
-</div>
-
 ---
 
 ## Audiometer Calibration
 
-<div class="build">
-<img src="assets/calibration0.png" class="fragment"/>
-<img src="assets/calibration1.png" class="fragment"/>
-<img src="assets/calibration2.png" class="fragment"/>
-<img src="assets/calibration3.png" class="fragment"/>
-</div>
+<images src="assets/calibration%n.png" count=4/>
 
 ---
 
 ## Loudness
 
-<!-- TODO: show audiogram again - talk about flat line -->
+Notes: TODO: show audiogram again - talk about flat line -->
 
 ![loudness](assets/loud_curve.png)
 
@@ -163,23 +283,7 @@ Let's try it out:
 
 ## Auditory-Brainstem Response
 
-<div class="build">
-<img src="assets/abr0.png" class="fragment"/>
-<img src="assets/abr1.png" class="fragment"/>
-<img src="assets/abr2.png" class="fragment"/>
-<img src="assets/abr3.png" class="fragment"/>
-<img src="assets/abr4.png" class="fragment"/>
-<img src="assets/abr5.png" class="fragment"/>
-<img src="assets/abr6.png" class="fragment"/>
-<img src="assets/abr7.png" class="fragment"/>
-<img src="assets/abr8.png" class="fragment"/>
-<img src="assets/abr9.png" class="fragment"/>
-<img src="assets/abr10.png" class="fragment"/>
-<img src="assets/abr11.png" class="fragment"/>
-<img src="assets/abr12.png" class="fragment"/>
-<img src="assets/abr13.png" class="fragment"/>
-<img src="assets/abr14.png" class="fragment"/>
-</div>
+<images src="assets/abr%n.png" count=15/>
 
 <div class="comment">Image source: http://www.hearingfoundation.in/Images/BERA1.jpg</div>
 
@@ -216,11 +320,7 @@ Let's try it out:
 
 **We can measure pure-tone thresholds with** 
 
-<div class="build">
-<img src="assets/puretone_summary1.png" class="fragment"/>
-<img src="assets/puretone_summary2.png" class="fragment"/>
-<img src="assets/puretone_summary3.png" class="fragment"/>
-</div>
+<images src="assets/puretone_summary%n.png" count=3/>
 
 ---
 
@@ -228,12 +328,7 @@ Let's try it out:
 
 **Adjust SNR of speech vs. speech-like noise**
 
-<div class="build">
-<img src="assets/hint0.png" class="fragment"/>
-<img src="assets/hint1.png" class="fragment"/>
-<img src="assets/hint2.png" class="fragment"/>
-<img src="assets/hint3.png" class="fragment"/>
-</div>
+<images src="assets/hint%n.png" count=4/>
 
 ---
 
@@ -257,11 +352,7 @@ Let's try it out:
 
 ## Summary - Part 1
 
-<div class="build">
-<img src="assets/part1_summary1.png" class="fragment"/>
-<img src="assets/part1_summary2.png" class="fragment"/>
-<img src="assets/part1_summary3.png" class="fragment"/>
-</div>
+<images src="assets/part1_summary%n" count=3/>
 
 ---
 
@@ -271,66 +362,7 @@ Let's try it out:
 
 ## Types of Hearing Loss
 
-**Conductive Hearing Loss**
-
-![conductive image](assets/conductive.png)
-
 ---
-
-## Types of Hearing Loss
-
-**Sensory-neural Hearing Loss**
-
-![sensory image](assets/sensory.png)
-
----
-
-## Temporary Hearing Loss
-
-**Recommended levels of noise exposure**
-
-<div class="build">
-<img src="assets/rel0.png" class="fragment"/>
-<img src="assets/rel1.png" class="fragment"/>
-<img src="assets/rel2.png" class="fragment"/>
-<img src="assets/rel3.png" class="fragment"/>
-<img src="assets/rel4.png" class="fragment"/>
-<img src="assets/rel5.png" class="fragment"/>
-<img src="assets/rel6.png" class="fragment"/>
-</div>
-
----
-
-## Temporary Hearing Loss
-
-**Excessive force damages hair cells**
-
-<div class="build">
-<img src="assets/ear1.png" class="fragment"/>
-<img src="assets/ear2.png" class="fragment"/>
-<img src="assets/hair_cells1.png" class="fragment"/>
-<img src="assets/hair_cells3.png" class="fragment"/>
-<img src="assets/tiplink1.png" class="fragment"/>
-<img src="assets/tiplink2.png" class="fragment"/>
-</div>
-
-<div class="comment">Zhao et al 1996</div>
-
----
-
-## "Temporary" Hearing Loss
-
-**Temporary hair-cell damage peramanently damages synapses**
-
-![threshold response](assets/kujawa_F2.jpg)
-
----
-
-## "Temporary" Hearing Loss
-
-**Temporary hair-cell damage peramanently damages synapses**
-
-![supra threshold response](assets/kujawa_F3.jpg)
 
 ---
 
@@ -340,9 +372,6 @@ Let's try it out:
 
 ![synapse ribbons](assets/kujawa_F7.gif)
 
----
-
-[Hearing Loss Demo](https://www.hear-it.org/Impressions-of-hearing-loss-and-Tinnitus-)
 
 ---
 
@@ -369,12 +398,7 @@ Let's try it out:
 
 ## Summary - Part 2
 
-<div class="build">
-<img src="assets/part2_summary1.png" class="fragment"/>
-<img src="assets/part2_summary2.png" class="fragment"/>
-<img src="assets/part2_summary3.png" class="fragment"/>
-<img src="assets/part2_summary4.png" class="fragment"/>
-</div>
+<images src="assets/part2_summary%n.png" count=4/>
 
 ---
 
@@ -382,11 +406,6 @@ Let's try it out:
 
 ---
 
-## Hearing Aids
-
-![hearing aid](assets/hearing_aid.jpg)
-
----
 
 ## Loudness Recruitment
 
@@ -401,7 +420,6 @@ Let's try it out:
 ## Compression
 
 ![compression](assets/compression.png)
-
 <div class="comment">Source: https://commons.wikimedia.org/wiki/File:Upward_compression.svg</div>
 
 ---
@@ -488,10 +506,6 @@ see next slide show...
 
 # Summary - Part 3
 
-<div class="build">
-<img src="assets/part3_summary1.png" class="fragment"/>
-<img src="assets/part3_summary2.png" class="fragment"/>
-<img src="assets/part3_summary3.png" class="fragment"/>
-</div>
+<images src="assets/part3_summary%n.png" count=3/>
 
 <div class="comment">Images derrived from Artwork by Michael Thompson and Alena Artemova from the Noun Project</div>

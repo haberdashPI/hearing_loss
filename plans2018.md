@@ -1,7 +1,7 @@
 
 # Goals
 
-I think the overall point of this lecture is to:
+I think the overall point of this lesson is to:
 
 1. Pique student's interest in various engineering applications to hearing
    loss, and get into some of the challenges of doing that well.
@@ -37,6 +37,26 @@ Day 2:
 4. ask students to identify the merits and problems of each limitation/solution 
 5. raise any additional limitations students missed
 
+New slides / research that I need to do:
+
+for day 1:
+- components of a hearing aid (needs research)
+- components of cochlear implant (needs research)
+- data for OHCs, (include speed of this process if possible, needs a little research)
+- noise supression from olivary complex (just have to find some data)
+- mesgarani data
+
+for day 2:
+hearing slides
+- rehab benefits (needs some research)
+- kilgard study (or something more up-to-date?)
+- tinnitus challenges
+
+up-and-coming slides
+- envelope decoding
+- eye gaze
+- ear machine
+
 # Detailed time line
 
 NOTE: parent headings list the total time of their child bullet points
@@ -46,6 +66,8 @@ and any additional time for intro
     - *goal* - in each of the discussion sessions students will be asked
         to synthesize the lecture material to identify limitations
         and propose possible solutions to better ameliorate hearing loss
+
+	- slide: have an outline of the what we're going to do 
 
 - 28 minute lecture (existing methods to improve hearing loss)
     - consequences of hearing loss (1-2 min)
@@ -68,33 +90,26 @@ and any additional time for intro
         - components of cochlear implants (~2 minutes)
         - DEMO of high-temporal but low spectral resolution of cochlear implants (2 minutes)
 
-- 5 minute break
+- 5 min break
 
-- 20-15 minute discussion: 
+- 23 min lecture (part 1 of 3, hearing lecture)
+
+- 15-20 minute discussion: 
     - instructions - identify at least 2 problems with current approaches
       to addressing hearing loss and then propose possible solutions
     - 10 minutes to discuss in small groups possible limitations and solutions
     - 5-10 minute class discussion about those proposed solutions
-        - format: each group presents their favorite limitation/solution
-        - allow any groups to comment on these solutions
-        - I add any of my own comments here about the solutions
 
-- 30 min part 1 of hearing lecture
+- 10 min discussion (part 2 of 3, hearing lecture)
 
 Day 1 & 2
 
 - 50 minute lecture (human hearing): 30 min in day 1, 20 in day 2
+	(perhaps move the first two sec tions, 23 min, to before the discussion)
     - hearing aid problem: compression is slow  (5 min)
         - function of outer hair cells (5 min)
             - anatomy (2 min)
 			- data (3 min): OHCs enhance volume of soft sounds
-    - hearing assessment problem: audiogram doesn't measure everything (18 min)
-        - other methods to asses human hearing (18 minutes)
-            - otoacoustic emissions (5 min)
-            - ABR (3 min)
-            - speech-in-noise (2 min)
-            - high-frequency audiometery (5 min)
-            - cognitive load (3 min)
     - problem: prosthetics don't work well in noise, let's look
       at some of things things humans do in noise (17 min)
         - olivary complex suppression of noise (2 min)
@@ -105,6 +120,13 @@ Day 1 & 2
             - DEMO - stochastic figure ground stimuli (1-2 min)
             - data: grouping temporal coherence (3 min)
             - Mesgarani - we can see enhancement of speech phonemes in the brain (3 min)
+    - hearing assessment problem: audiogram doesn't measure everything (18 min)
+        - other methods to asses human hearing (18 minutes)
+            - otoacoustic emissions (5 min)
+            - ABR (3 min)
+            - speech-in-noise (2 min)
+            - high-frequency audiometery (5 min)
+            - cognitive load (3 min)
     - plasticity - usually good, but with poor hearing this can lead
       to bad changes. (5 min)
           - evidence that having hearing aids sooner really helps (3 min)
@@ -123,20 +145,19 @@ Day 2
 	- any questions? (0-4 min)
     - today's plans (1 min)
 
-- 20 min part 2 of hearing lecture
+- 17 min part 3 of 3 of hearing lecture
 
-- 20-15 minute discussion
+- part 1 of 2 of up-and-coming improvements 19 min
+
+- 15-20 minute discussion
     - directions: identify at least 2 possible solutions based on
-      what you just learned about human hearing. 
+      what you just learned about human hearing, and new solutions
     - 10 minutes to discuss in small groups possible limitations and solutions
     - 5-10 minute class discussion about those proposed solutions
-        - format: each group presents their favorite limitation/solution
-        - allow any groups to comment on these solutions
-        - add any of my own comments here about the solutions
 
-- 5 minute break
+- part 2 of 2 of up-and-coming: 23 min
 
-- 42 min lecture - modern/soon-to-be solutions to improve hearing
+- up-and-coming lecture: 42 min, modern/soon-to-be solutions to improve hearing
     - envelope decoding (12 min)
         - describe EEG: images, basic principles (2 min)
         - formulate explain regression problem (5 min)
