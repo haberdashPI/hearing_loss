@@ -5,7 +5,13 @@ module.exports = (markdown, options) => {
       markdown
         .split('\n')
         .map((line, index) => {
-          if (/<images/.test(line)){
+          if (/<iframe/.test(line) || /<audio/.test(line)){
+            return ""
+          }
+          else if (/^\s*-\s*.*\|\s*$/.test(line)){
+            var result = /^(\s*-\s*.*)\|\s*$/.exec(line)
+            return result[1]
+          }else if (/<images/.test(line)){
             var result =
               /<images\s*src\s*=\"(.*)%n(.*)\"\s*count\s*=\s*([0-9]+)\s*\/>/.exec(line)
             // console.log("line: "+line)
