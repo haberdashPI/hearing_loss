@@ -86,7 +86,7 @@ and any additional time for intro
         - talk about time constant of compression (1 minute)
         - components of a hearing aid (3-4 minutes)
         - demo of hearing in noise (~3 minutes)
-    - cochlear implants
+    - cochlear implants - (4 min)
         - components of cochlear implants (~2 minutes)
         - DEMO of high-temporal but low spectral resolution of cochlear implants (2 minutes)
 
@@ -104,14 +104,18 @@ and any additional time for intro
 
 Day 1 & 2
 
-- 50 minute lecture (human hearing): 30 min in day 1, 20 in day 2
-	(perhaps move the first two sec tions, 23 min, to before the discussion)
-    - hearing aid problem: compression is slow  (5 min)
+- 56 minute lecture (human hearing): 30 min in day 1, 20 in day 2
+	(perhaps move the first two sec tions, 28 min, to before the discussion)
+    - hearing aid problem: compression is slow and coarse  (5 min)
         - function of outer hair cells (5 min)
             - anatomy (2 min)
 			- data (3 min): OHCs enhance volume of soft sounds
     - problem: prosthetics don't work well in noise, let's look
-      at some of things things humans do in noise (17 min)
+      at some of things things humans do in noise (23 min)
+		- binaural hearing
+			- ITD - timing differences (2 min)
+			- ILD - level differences (2 min)
+			- spectral cues - directional filtering (1 min)
         - olivary complex suppression of noise (2 min)
         - echoes - precedence effect (3 min)
         - enhancing attended sounds (~12 min) - 
@@ -127,6 +131,7 @@ Day 1 & 2
             - speech-in-noise (2 min)
             - high-frequency audiometery (5 min)
             - cognitive load (3 min)
+
     - plasticity - usually good, but with poor hearing this can lead
       to bad changes. (5 min)
           - evidence that having hearing aids sooner really helps (3 min)
