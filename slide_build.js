@@ -4,14 +4,13 @@ module.exports = (markdown, options) => {
       markdown
         .split('\n')
         .map((line, index) => {
-          if (/^\s*-\s*.*\|\s*$/.test(line)){
-            var result = /^(\s*-\s*.*)\|\s*$/.exec(line)
+          if (/^\s*(-|[0-9]+)\s*.*\|\s*$/.test(line)){
+            var result = /^(\s*(-\s*.*)\|\s*$/.exec(line)
             return result[1] + "<!-- .element: class=\"fragment\" -->"
           }else if (/<images/.test(line)){
             var result =
-              /<images\s*src\s*=\"(.*)%n(.*)\"\s*count\s*=\s*([0-9]+)\s*\/>/.exec(line)
-            // console.log("line: "+line)
-            // console.log(result)
+              /<images\s*src\s*=\"(.*)%n(.*)\"\s*count\s*=\s*([0-9]+)\s*\/>/.
+              exec(line)
             if(result === null){
               console.error("Maleformed images tag near line "+index+":\n"+
                 line)

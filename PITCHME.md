@@ -15,21 +15,24 @@ revealOptions:
 Day 1
 - Intro to Hearing Loss
 - Hearing Prosthetics |
-- Known challenges |
-- Small Group Discussions: Brainstorm Solutions |
-- More known challenges |
+- With time: Human Hearing |
 
 +++
 
 ## Outline
 
 Day 2
-- More known challenges
-- Some possible future solutions |
-- Small Group Discussions: Brainstorm Solutions |
-- More future solutions |
+- Review Day 1
+- Human Hearing |
+- Class Discussion |
+- With time: Future of Prosthetics |
 
 ---
+
+# Intro to Hearing Loss
+
+---
+
 
 ## The sound of hearing loss
 
@@ -46,18 +49,12 @@ Day 2
 
 ---
 
-# Intro to Hearing Loss
-
----
-
 ## Costs
 
 <images src="assets/costs%n.png" count=3/>
 
 <div class="comment">Images derrived from Artwork by Gan Khoon Lay and Lamik 
 from the Noun Project</div>
-
-Notes: TODO: fix the image build so it works in PDF (include all parts)
 
 +++
 
@@ -94,6 +91,19 @@ to test people's hearing? (Hint: Fourier transform)
 ## Audiometer
 
 <images src="assets/audiometer%n.png" count=5/>
+
++++
+
+## Loudness
+
+![loudness](assets/loud_curve.png)
+
++++
+
+## Loudness
+
+Let's try it out:
+[Tone Generator](http://www.szynalski.com/tone-generator/)
 
 ---
 
@@ -150,19 +160,9 @@ to test people's hearing? (Hint: Fourier transform)
 
 ## Hidden Hearing Loss
 
-**A temporary shift in threshold leads to...**
+**A temporary shift in threshold**
 
-![threshold response](assets/kujawa_F2.jpg)
-
-<div class="comment">Kujawa et al 2009</div>
-
-+++
-
-## Hidden Hearing Loss
-
-**...a permanent shift in super-threshold responses and...**
-
-![supra threshold response](assets/kujawa_F3.jpg)
+![threshold response](assets/kujawaf2.png)
 
 <div class="comment">Kujawa et al 2009</div>
 
@@ -170,12 +170,20 @@ to test people's hearing? (Hint: Fourier transform)
 
 ## Hidden Hearing Loss
 
-**...a permanent loss of neural tissue**
-![delayed loss of tissue](assets/kujawa4.jpg)
+**A permanent shift in super-threshold responses**
+
+![supra threshold response](assets/kujawa3.png)
 
 <div class="comment">Kujawa et al 2009</div>
 
-Notes: TODO: add labels to graphs
++++
+
+## Hidden Hearing Loss
+
+**A permanent loss of neural tissue**
+![delayed loss of tissue](assets/kujawa4.png)
+
+<div class="comment">Kujawa et al 2009</div>
 
 ---
 
@@ -193,8 +201,6 @@ Notes: TODO: add labels to graphs
 
 ![hearing aid schematic](assets/Fig_1_DigitalHA_opt.jpeg)
 <div class="comment">Baekgaard et al 2013</div>
-
-Notes: TODO: show build of image
 
 +++
 
@@ -239,7 +245,7 @@ Notes: Why would we have separate channels of compression
 
 ---
 
-# Known Challenges
+# Human Hearing: Part I
 
 ---
 
@@ -350,6 +356,29 @@ Notes: Why would we have separate channels of compression
 
 <img src="assets/osullivan2015a.png"/>
 
+
+---
+
+## Small Group Discussions
+
+1. Break into groups of 3-4
+2. Identify 3 limitations of hearing prosthetics |
+3. Describe 3 approaches to solve limitations: 3-4 bullet points each of the broad steps to design and test, with a timeline |
+4. Identify problems or any gaps in knowledge with each approach. |
+5. Pick a spokesperson to start sharing your ideas. |
+
+---
+
+## Class Discussion
+
+1. Each group presents 1 of their ideas.
+2. Class comments on each idea |
+3. Any missing ideas that groups thought of are discussed. |
+
+---
+
+# Human Hearing: Part II
+
 ---
 
 ## Hearing Assement
@@ -457,22 +486,6 @@ Notes: Why would we have separate channels of compression
 
 <images src="assets/calibration%n.png" count=4/>
 
----
-
-## Loudness
-
-Notes: TODO: show audiogram again - talk about flat line -->
-
-![loudness](assets/loud_curve.png)
-
----
-
-## Loudness
-
-Let's try it out:
-[Tone Generator](http://www.szynalski.com/tone-generator/)
-
----
 
 
 ## Otoacoustic Emissions

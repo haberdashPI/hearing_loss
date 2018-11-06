@@ -16,9 +16,10 @@ Day 1:
 
 1. ~2 min introduction, format
 2. ~30 min intro to hearing loss and methods to address hearing loss
-3. ~15-20 min class discussion: identify limitations and propose solutions
-4. ~5 min break
-5. ~30 min: part 1 lecture on human hearing (in context of how this relates
+3. ~5 min break
+4. ~23 min part 1 of hearing
+4. ~15-20 min class discussion: identify limitations and propose solutions
+5. ~10 min: part 2 lecture on human hearing (in context of how this relates
     to hearing loss)
 
 Day 2:
@@ -38,13 +39,6 @@ Day 2:
 5. raise any additional limitations students missed
 
 New slides / research that I need to do:
-
-for day 1:
-- components of a hearing aid (needs research)
-- components of cochlear implant (needs research)
-- data for OHCs, (include speed of this process if possible, needs a little research)
-- noise supression from olivary complex (just have to find some data)
-- mesgarani data
 
 for day 2:
 hearing slides
