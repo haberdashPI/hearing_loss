@@ -138,7 +138,7 @@ Day 1 & 2
         - some of the challenges of studying tinnitus (1 min)
 
 Day 2
-        
+
 - 5-10 min - recap / intro
 	- brief review of material (5 min)
 	- any questions? (0-4 min)

@@ -8,6 +8,9 @@ revealOptions:
 
 # Hearing Prosthetics
 
+Note: Remember that I have to remove some of the slides
+that I didn't actually cover on day 1 (or add them to day 2).
+
 ---
 
 ## Outline
@@ -245,7 +248,7 @@ Notes: Why would we have separate channels of compression
 
 ---
 
-# Human Hearing: Part I
+# Human Hearing
 
 ---
 
@@ -356,28 +359,26 @@ Notes: Why would we have separate channels of compression
 
 <img src="assets/osullivan2015a.png"/>
 
+---
+
+## Outline
+
+Day 2
+- Review Day 1
+- More Measures of Hearing |
+- Class Discussion |
+- Future of Prosthetics |
 
 ---
 
-## Small Group Discussions
 
-1. Break into groups of 3-4
-2. Identify 3 limitations of hearing prosthetics |
-3. Describe 3 approaches to solve limitations: 3-4 bullet points each of the broad steps to design and test, with a timeline |
-4. Identify problems or any gaps in knowledge with each approach. |
-5. Pick a spokesperson to start sharing your ideas. |
+## Summary
+
+<images src="assets/summary%n_day1.png" count=4/>
 
 ---
 
-## Class Discussion
-
-1. Each group presents 1 of their ideas.
-2. Class comments on each idea |
-3. Any missing ideas that groups thought of are discussed. |
-
----
-
-# Human Hearing: Part II
+# Measures of Hearing
 
 ---
 
@@ -467,218 +468,75 @@ Notes: Why would we have separate channels of compression
 
 ---
 
-## OLD SLIDES
+## Small Group Discussions
+
+1. Break into groups of 3-4
+2. Identify 3 limitations of hearing prosthetics |
+3. Describe 3 approaches to solve limitations: 3-4 bullet points each of the broad steps to design and test, with a timeline |
+4. Identify problems or any gaps in knowledge with each approach. |
+5. Pick a spokesperson to start sharing your ideas. |
 
 ---
 
-## Three Parts
+## Class Discussion
 
-- Hearing Assessment
-- Hearing Loss           |
-- Improving Hearing      |
-
----
-
-# Part 1: Hearing Assessment
----
-
-## Audiometer Calibration
-
-<images src="assets/calibration%n.png" count=4/>
-
-
-
-## Otoacoustic Emissions
-
-![in-ear microphone](assets/inear_audio_inout.png)
+1. Each group presents 1 of their ideas.
+2. Class comments on each idea |
+3. Any missing ideas that groups thought of are discussed. |
 
 ---
 
-## Otoacoustic Emissions
-
-**Distortion Product Otoacoustic Emission (DPOAE)**
-
-![dpoae](assets/DPOAE.png)
-
----
-
-## Otoacoustic Emissions
-
-**Outer hair cells generate sound**
-
-<div class="build">
-<img src="assets/ear1.png" class="fragment"/>
-<img src="assets/ear2.png" class="fragment"/>
-<img src="assets/hair_cells1.png" class="fragment"/>
-<img src="assets/hair_cells2.png" class="fragment"/>
-</div>
-
----
-
-## Summary
-
-**We can measure pure-tone thresholds with** 
-
-<images src="assets/puretone_summary%n.png" count=3/>
-
----
----
-
-## Summary - Part 1
-
-<images src="assets/part1_summary%n" count=3/>
-
----
-
-# Part 2: Hearing Loss
-
----
-
-## Types of Hearing Loss
-
----
-
-## Hidden Hearing Loss
-
-**Temporary hair-cell damage peramanently damages synapses**
-
-![synapse ribbons](assets/kujawa_F7.gif)
-
----
-
-## High-frequency hearing loss
-**Hearing loss often starts in high frequencies**
-
-![high frequency hearing loss audiogram](assets/highfreq.jpg)
-
----
-
-## Basilar Membrane Simulation
-
-**Hearing loss often starts in high frequencies**
-
-<video width="600" height="300" controls>
-<source src="https://www.youtube.com/embed/fLRu-Hi5k9I">
-</video>
-
----
-
-[Tinnitus Demo](https://www.soundrelief.com/tinnitus/sounds-tinnitus/)
-
-<!-- TODO: show proposed mechanism for tinnitus??? -->
-
----
-
-## Summary - Part 2
-
-<images src="assets/part2_summary%n.png" count=4/>
-
----
-
-# Part 3: Improving Hearing
-
----
-
-
-## Loudness Recruitment
-
-**In hearing loss, loud sounds still "feel" loud.**
-
-![recruitment](assets/recruitment.png)
-
-<div class="comment">Source: http://www.sens.com/helps/helps_d03.htm</div>
-
----
-
-## Compression
-
-![compression](assets/compression.png)
-<div class="comment">Source: https://commons.wikimedia.org/wiki/File:Upward_compression.svg</div>
-
----
-
-## Compression Delay
-
-<ul>
-<li class="fragment">Fast Compression<span class="fragment"> - Masks speech envelope</span></li>
-<li class="fragment">Slow Compression<span class="fragment"> - Fast, loud sounds can be painful</span></li>
-
----
-
-## Hearing aid evaluation
-
-**Poorer cognition limits the benefits of compression**
-![compression intelligebility](assets/compression_rst.jpg)
-
-<div class="comment">Arehart et al 2013</div>
-
----
-
-## Speech-in-noise
-
-**Hearing aids fail in noisy environments**
-
-![Video](https://www.youtube.com/embed/1l37lzLIgQU)
+# Future Hearing Prosthetics
 
 ---
 
 ## Ear Machine
 
 **User adjustable hearing aid**
-![ear machine image](assets/ear_machine.png)
+![ear machine image](assets/ear_machine_photo.png)
 <div class="comment">Source: http://www.earmachine.com/</div>
+
++++
+
+## Ear Machine
+
+<images src="assets/ear_machine%n.png" count=3/>
+
+<div class="comment">Sabin et al. 2011</div>
 
 ---
 
 ## Using eye-gaze
 
 **Directional tuning based on eye gaze**
+
 ![eye gaze hearing aid](assets/eye_gaze.png)
+
+<div class="comment">Kidd 2017</div>
+
++++
+
+## Using eye-gaze
+
+**Directional tuning based on eye gaze**
+
+![eye gaze results](assets/kidd_2017_results.jpeg)
 
 <div class="comment">Kidd 2017</div>
 
 ---
 
-## Cochlear Implants
+## In-ear EEG
 
-![cochlear implant](assets/cochlear_implant.jpg)
+![eeg cap](assets/eeg_cap.jpg)
 
-<div class="comment">Source https://commons.wikimedia.org/wiki/File:Infant_with_cochlear_implant.jpg</div>
+<div class="comment">image By Chris Hope (https://www.flickr.com/photos/tim_uk/8135755109/)[<a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0 </a>], <a href="https://commons.wikimedia.org/wiki/File:EEG_Recording_Cap.jpg">via Wikimedia Commons</a></div>
 
----
++++
 
-## Cochlear Implants
+## In-ear EEG
 
-![cochlear implant](assets/cochlear_implant2.jpg)
-
-<div class="comment">Source https://commons.wikimedia.org/wiki/File:Cochleaimplantat.jpg</div>
-
----
-
-## Cochlear Implant Fidelity
-
-**Cochlear implants have poor spectral resolution**
-
-![Video](https://www.youtube.com/embed/SpKKYBkJ9Hw)
+![in-ear eeg](assets/in_ear_eeg.gif)
+<div class="comment">Fiedler et al 2016</div>
 
 ---
-
-## Cochlear Implant Fidelity
-
-**Cochlear implants have poor spectral resolution**
-[CI Demo #2](http://www.utdallas.edu/~assmann/projects_CI.html)
-
----
-
-# Auditory Rehabilitation
-
-<!-- TODO: give an overview of perceptual learning -->
-see next slide show...
-
----
-
-# Summary - Part 3
-
-<images src="assets/part3_summary%n.png" count=3/>
-
-<div class="comment">Images derrived from Artwork by Michael Thompson and Alena Artemova from the Noun Project</div>
