@@ -278,7 +278,7 @@ Notes: Why would we have separate channels of compression
 
 ## Cochlear Implants
 
-![cochlear implant](assets/Blausen_0244_CochlearImplant_01.png)
+![cochlear implant](assets/Blausen_0244_CochlearImplant_01_reduced.jpg)
 
 <div class="comment">Blausen.com staff (2014). "<a class="external text" href="https://en.wikiversity.org/wiki/WikiJournal_of_Medicine/Medical_gallery_of_Blausen_Medical_2014">Medical gallery of Blausen Medical 2014</a>". WikiJournal of Medicine 1 (2). <a href="https://en.wikipedia.org/wiki/Digital_object_identifier" class="extiw" title="w:Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.15347/wjm/2014.010">10.15347/wjm/2014.010</a>. <a href="https://en.wikipedia.org/wiki/International_Standard_Serial_Number" class="extiw" title="en:International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/2002-4436">2002-4436</a>. - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=29025007">Link</a></div>
 
