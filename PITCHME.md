@@ -1,8 +1,5 @@
 # Hearing Prosthetics
 
-Note: Remember that I have to remove some of the slides
-that I didn't actually cover on day 1 (or add them to day 2).
-
 ---
 
 ## Outline
@@ -255,8 +252,6 @@ Let's try it out:
 - applied separately to each frequency channel (~12)
 ![compression](assets/compression.png)
 <div class="comment">Source: https://commons.wikimedia.org/wiki/File:Upward_compression.svg</div>
-
-Notes: Why would we have separate channels of compression
 
 +++
 
@@ -560,18 +555,18 @@ Day 2
 ## Small Group Discussions
 
 1. Break into groups of 3-4
-2. Identify 3 limitations of hearing prosthetics |
-3. Describe 3 approaches to solve limitations: 3-4 bullet points each of the broad steps to design and test, with a timeline |
-4. Identify problems or any gaps in knowledge with each approach. |
-5. Pick a spokesperson to start sharing your ideas. |
+2. Identify 3 limitations of hearing prosthetics
+3. Describe 3 approaches to solve limitations: 3-4 bullet points each of the broad steps to design and test, with a timeline
+4. Identify problems or any gaps in knowledge with each approach.
+5. Pick a spokesperson to start sharing your ideas.
 
 ---
 
 ## Class Discussion
 
 1. Each group presents 1 of their ideas.
-2. Class comments on each idea |
-3. Any missing ideas that groups thought of are discussed. |
+2. Class comments on each idea.
+3. Any missing ideas that groups thought of are discussed.
 
 ---
 
