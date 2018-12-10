@@ -1,11 +1,3 @@
----
-title: Hearing Prosthetics
-theme: 'simple'
-verticalSeparator: \+\+\+
-revealOptions:
-    transition: 'none'
----
-
 # Hearing Prosthetics
 
 Note: Remember that I have to remove some of the slides
@@ -393,6 +385,15 @@ Notes: Why would we have separate channels of compression
 
 ## Perceptual Grouping
 **Grouping by frequency**
+
+<div class="build">
+<img src="assets/aba1.png" class="fragment"/>
+<img src="assets/aba2.png" class="fragment"/>
+<img src="assets/aba3.png" class="fragment"/>
+<img src="assets/aba4.png" class="fragment"/>
+<img src="assets/aba5.png" class="fragment"/>
+<img src="assets/aba6.png" class="fragment"/>
+</div>
 
 <audio src="assets/3st_aba.wav"/>
 <audio src="assets/6st.wav"/>
