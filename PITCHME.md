@@ -54,7 +54,12 @@ Day 2
 
 ## Costs
 
-<images src="assets/costs%n.png" count=3/>
+
+<div class="build">
+<img src="assets/costs1.png" class="fragment"/>
+<img src="assets/costs2.png" class="fragment"/>
+<img src="assets/costs3.png" class="fragment"/>
+</div>
 
 <div class="comment">Images derrived from Artwork by Gan Khoon Lay and Lamik 
 from the Noun Project</div>
@@ -70,30 +75,64 @@ from the Noun Project</div>
 
 ---
 
-## Audiogram
 
-<images src="assets/audiogram%n.png" count=8/>
+<div class="build">
+<img src="assets/audiogram1.png" class="fragment"/>
+<img src="assets/audiogram2.png" class="fragment"/>
+<img src="assets/audiogram3.png" class="fragment"/>
+<img src="assets/audiogram4.png" class="fragment"/>
+<img src="assets/audiogram5.png" class="fragment"/>
+<img src="assets/audiogram6.png" class="fragment"/>
+<img src="assets/audiogram7.png" class="fragment"/>
+<img src="assets/audiogram8.png" class="fragment"/>
+</div>
 
 Note: Why would we want to use pure tones at different frequencies
 to test people's hearing? (Hint: Fourier transform)
 
 +++
 
-## Adaptive Staircase
 
-<images src="assets/adapt%n.png" count=16/>
+<div class="build">
+<img src="assets/adapt1.png" class="fragment"/>
+<img src="assets/adapt2.png" class="fragment"/>
+<img src="assets/adapt3.png" class="fragment"/>
+<img src="assets/adapt4.png" class="fragment"/>
+<img src="assets/adapt5.png" class="fragment"/>
+<img src="assets/adapt6.png" class="fragment"/>
+<img src="assets/adapt7.png" class="fragment"/>
+<img src="assets/adapt8.png" class="fragment"/>
+<img src="assets/adapt9.png" class="fragment"/>
+<img src="assets/adapt10.png" class="fragment"/>
+<img src="assets/adapt11.png" class="fragment"/>
+<img src="assets/adapt12.png" class="fragment"/>
+<img src="assets/adapt13.png" class="fragment"/>
+<img src="assets/adapt14.png" class="fragment"/>
+<img src="assets/adapt15.png" class="fragment"/>
+<img src="assets/adapt16.png" class="fragment"/>
+</div>
 
 +++
 
-## Signal-detection Theory
 
-<images src="assets/signal_detect%n.png" count=5/>
+<div class="build">
+<img src="assets/signal_detect1.png" class="fragment"/>
+<img src="assets/signal_detect2.png" class="fragment"/>
+<img src="assets/signal_detect3.png" class="fragment"/>
+<img src="assets/signal_detect4.png" class="fragment"/>
+<img src="assets/signal_detect5.png" class="fragment"/>
+</div>
 
 +++
 
-## Audiometer
 
-<images src="assets/audiometer%n.png" count=5/>
+<div class="build">
+<img src="assets/audiometer1.png" class="fragment"/>
+<img src="assets/audiometer2.png" class="fragment"/>
+<img src="assets/audiometer3.png" class="fragment"/>
+<img src="assets/audiometer4.png" class="fragment"/>
+<img src="assets/audiometer5.png" class="fragment"/>
+</div>
 
 +++
 
@@ -129,33 +168,46 @@ Let's try it out:
 
 ## Hearing Loss Causes
 
-**Recommended levels of noise exposure**
 
-<images src="assets/rel%n.png" count=6/>
-
-+++
-
-## Hearing Loss Causes
-
-**Links between hair cells can break**
-
-<images src="assets/ear%n.png" count=2/>
+<div class="build">
+<img src="assets/rel1.png" class="fragment"/>
+<img src="assets/rel2.png" class="fragment"/>
+<img src="assets/rel3.png" class="fragment"/>
+<img src="assets/rel4.png" class="fragment"/>
+<img src="assets/rel5.png" class="fragment"/>
+<img src="assets/rel6.png" class="fragment"/>
+</div>
 
 +++
 
 ## Hearing Loss Causes
 
-**Links between hair cells can break**
 
-<images src="assets/hair_cells%n.png" count=3/>
+<div class="build">
+<img src="assets/ear1.png" class="fragment"/>
+<img src="assets/ear2.png" class="fragment"/>
+</div>
 
 +++
 
 ## Hearing Loss Causes
 
-**Links between hair cells can break**
 
-<images src="assets/tiplink%n.png" count=2/>
+<div class="build">
+<img src="assets/hair_cells1.png" class="fragment"/>
+<img src="assets/hair_cells2.png" class="fragment"/>
+<img src="assets/hair_cells3.png" class="fragment"/>
+</div>
+
++++
+
+## Hearing Loss Causes
+
+
+<div class="build">
+<img src="assets/tiplink1.png" class="fragment"/>
+<img src="assets/tiplink2.png" class="fragment"/>
+</div>
 
 <div class="comment">Zhao et al 1996</div>
 
@@ -254,17 +306,21 @@ Notes: Why would we have separate channels of compression
 
 ## Compression in the Ear
 
-**Outer hair cells amplify soft sounds**
 
-<images src="assets/ear%n.png" count=2/>
+<div class="build">
+<img src="assets/ear1.png" class="fragment"/>
+<img src="assets/ear2.png" class="fragment"/>
+</div>
 
 +++
 
 ## Compression in the Ear
 
-**Outer hair cells amplify soft sounds**
 
-<images src="assets/hair_cells%n.png" count=2/>
+<div class="build">
+<img src="assets/hair_cells1.png" class="fragment"/>
+<img src="assets/hair_cells2.png" class="fragment"/>
+</div>
 
 +++
 
@@ -292,9 +348,15 @@ Notes: Why would we have separate channels of compression
 
 ---
 
-## Scene Analysis
 
-<images src="assets/asa%n.png" count=6/>
+<div class="build">
+<img src="assets/asa1.png" class="fragment"/>
+<img src="assets/asa2.png" class="fragment"/>
+<img src="assets/asa3.png" class="fragment"/>
+<img src="assets/asa4.png" class="fragment"/>
+<img src="assets/asa5.png" class="fragment"/>
+<img src="assets/asa6.png" class="fragment"/>
+</div>
 
 +++
 
@@ -317,10 +379,13 @@ Notes: Why would we have separate channels of compression
 
 +++
 
-## Efferent Feedback
-**The brain modulates outer-hair cells**
+**Time and Ampltude Differnces**
 
-<images src="assets/mocs%n.png" count=3/>
+<div class="build">
+<img src="assets/mocs1.png" class="fragment"/>
+<img src="assets/mocs2.png" class="fragment"/>
+<img src="assets/mocs3.png" class="fragment"/>
+</div>
 
 <div class="comment">Wolter et al 2013; Backus & Guinan 2006</div>
 
@@ -329,7 +394,6 @@ Notes: Why would we have separate channels of compression
 ## Perceptual Grouping
 **Grouping by frequency**
 
-<images src="assets/aba%n.png" count=6/>
 <audio src="assets/3st_aba.wav"/>
 <audio src="assets/6st.wav"/>
 <audio src="assets/12st.wav"/>
@@ -374,7 +438,12 @@ Day 2
 
 ## Summary
 
-<images src="assets/summary%n_day1.png" count=4/>
+<div class="build">
+<img src="assets/summary1_day1.png" class="fragment"/>
+<img src="assets/summary2_day1.png" class="fragment"/>
+<img src="assets/summary3_day1.png" class="fragment"/>
+<img src="assets/summary4_day1.png" class="fragment"/>
+</div>
 
 ---
 
@@ -400,7 +469,22 @@ Day 2
 
 ## Auditory-Brainstem Response
 
-<images src="assets/abr%n.png" count=14/>
+<div class="build">
+<img src="assets/abr1.png" class="fragment"/>
+<img src="assets/abr2.png" class="fragment"/>
+<img src="assets/abr3.png" class="fragment"/>
+<img src="assets/abr4.png" class="fragment"/>
+<img src="assets/abr5.png" class="fragment"/>
+<img src="assets/abr6.png" class="fragment"/>
+<img src="assets/abr7.png" class="fragment"/>
+<img src="assets/abr8.png" class="fragment"/>
+<img src="assets/abr9.png" class="fragment"/>
+<img src="assets/abr10.png" class="fragment"/>
+<img src="assets/abr11.png" class="fragment"/>
+<img src="assets/abr12.png" class="fragment"/>
+<img src="assets/abr13.png" class="fragment"/>
+<img src="assets/abr14.png" class="fragment"/>
+</div>
 
 <div class="comment">Image source: http://www.hearingfoundation.in/Images/BERA1.jpg</div>
 
@@ -444,9 +528,13 @@ Day 2
 
 ## Hearing in Noise
 
-**Adjust SNR of speech vs. speech-like noise**
 
-<images src="assets/hint%n.png" count=4/>
+<div class="build">
+<img src="assets/hint1.png" class="fragment"/>
+<img src="assets/hint2.png" class="fragment"/>
+<img src="assets/hint3.png" class="fragment"/>
+<img src="assets/hint4.png" class="fragment"/>
+</div>
 
 +++
 
@@ -498,9 +586,12 @@ Day 2
 
 +++
 
-## Ear Machine
 
-<images src="assets/ear_machine%n.png" count=3/>
+<div class="build">
+<img src="assets/ear_machine1.png" class="fragment"/>
+<img src="assets/ear_machine2.png" class="fragment"/>
+<img src="assets/ear_machine3.png" class="fragment"/>
+</div>
 
 <div class="comment">Sabin et al. 2011</div>
 
